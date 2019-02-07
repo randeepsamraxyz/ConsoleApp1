@@ -12,11 +12,11 @@ namespace ConsoleApp1
         {
             // var a = new testquestion();
             // a.playingwithforloops();
-            birthday_party peter = new birthday_party();
-            peter.setupPartyList();
-            peter.reverseprintPartyList();
-            Console.WriteLine(peter.printPartyList());
-            Console.WriteLine(peter.reverseprintPartyList());
+            birthday_party samra = new birthday_party();
+            samra.setupPartyList();
+            samra.reverseprintPartyList();
+            Console.WriteLine(samra.printPartyList());
+            Console.WriteLine(samra.reverseprintPartyList());
 
         }
     }
